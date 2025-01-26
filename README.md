@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanviChhabra13/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TanviChhabra13/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 ## Depth-First Search
 |  |
 | ------- |
