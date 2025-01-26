@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
 ## Two Pointers
 |  |
