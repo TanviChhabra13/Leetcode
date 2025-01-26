@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Heap (Priority Queue)
