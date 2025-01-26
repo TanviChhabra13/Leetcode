@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/TanviChhabra13/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
