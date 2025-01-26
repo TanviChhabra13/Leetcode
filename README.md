@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/TanviChhabra13/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Graph
 |  |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0009-palindrome-number) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
