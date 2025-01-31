@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TanviChhabra13/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanviChhabra13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
