@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanviChhabra13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/TanviChhabra13/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 ## Prefix Sum
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Linked List
 |  |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/TanviChhabra13/Leetcode/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
@@ -215,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TanviChhabra13/Leetcode/tree/master/0278-first-bad-version) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
