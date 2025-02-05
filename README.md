@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/TanviChhabra13/Leetcode/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TanviChhabra13/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
