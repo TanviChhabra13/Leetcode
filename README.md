@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/TanviChhabra13/Leetcode/tree/master/0372-super-pow) |
+| [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
@@ -172,4 +174,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
