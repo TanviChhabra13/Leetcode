@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TanviChhabra13/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/TanviChhabra13/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/TanviChhabra13/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/TanviChhabra13/Leetcode/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
