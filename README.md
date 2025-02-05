@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
