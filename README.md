@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TanviChhabra13/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0009-palindrome-number) |
 | [0372-super-pow](https://github.com/TanviChhabra13/Leetcode/tree/master/0372-super-pow) |
+| [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 ## Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/TanviChhabra13/Leetcode/tree/master/0372-super-pow) |
+| [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
 |  |
