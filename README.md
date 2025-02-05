@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/TanviChhabra13/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -191,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
+## Queue
+|  |
+| ------- |
+| [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
