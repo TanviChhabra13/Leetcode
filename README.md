@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1018-largest-perimeter-triangle](https://github.com/TanviChhabra13/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0414-third-maximum-number) |
 | [1018-largest-perimeter-triangle](https://github.com/TanviChhabra13/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
