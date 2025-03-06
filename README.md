@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/TanviChhabra13/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/TanviChhabra13/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/TanviChhabra13/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/TanviChhabra13/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/TanviChhabra13/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/TanviChhabra13/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TanviChhabra13/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0917-boats-to-save-people](https://github.com/TanviChhabra13/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/TanviChhabra13/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Stack
 |  |
 | ------- |
