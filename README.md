@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1018-largest-perimeter-triangle](https://github.com/TanviChhabra13/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Linked List
 |  |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
