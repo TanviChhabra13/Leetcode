@@ -274,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/TanviChhabra13/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/TanviChhabra13/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
