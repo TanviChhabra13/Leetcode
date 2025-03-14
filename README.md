@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanviChhabra13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0414-third-maximum-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TanviChhabra13/Leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanviChhabra13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanviChhabra13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0414-third-maximum-number) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TanviChhabra13/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/TanviChhabra13/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1014-k-closest-points-to-origin](https://github.com/TanviChhabra13/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/TanviChhabra13/Leetcode/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/TanviChhabra13/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/TanviChhabra13/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TanviChhabra13/Leetcode/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/TanviChhabra13/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
