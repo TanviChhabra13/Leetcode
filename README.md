@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/TanviChhabra13/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanviChhabra13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/TanviChhabra13/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanviChhabra13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanviChhabra13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Matrix
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanviChhabra13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TanviChhabra13/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanviChhabra13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
