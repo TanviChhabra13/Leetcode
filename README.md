@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/TanviChhabra13/Leetcode/tree/master/0176-second-highest-salary) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/TanviChhabra13/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Simulation
 |  |
