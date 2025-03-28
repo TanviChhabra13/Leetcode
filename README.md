@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TanviChhabra13/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0009-palindrome-number) |
+| [0089-gray-code](https://github.com/TanviChhabra13/Leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/TanviChhabra13/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/TanviChhabra13/Leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/TanviChhabra13/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanviChhabra13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/TanviChhabra13/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
