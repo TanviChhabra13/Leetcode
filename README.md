@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1876-map-of-highest-peak](https://github.com/TanviChhabra13/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/TanviChhabra13/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/TanviChhabra13/Leetcode/tree/master/2145-grid-game) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/TanviChhabra13/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/TanviChhabra13/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/TanviChhabra13/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/TanviChhabra13/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/TanviChhabra13/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/TanviChhabra13/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TanviChhabra13/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/TanviChhabra13/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Stack
 |  |
 | ------- |
