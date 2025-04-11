@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanviChhabra13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/TanviChhabra13/Leetcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/TanviChhabra13/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TanviChhabra13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/TanviChhabra13/Leetcode/tree/master/0218-the-skyline-problem) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanviChhabra13/Leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/TanviChhabra13/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/TanviChhabra13/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanviChhabra13/Leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/TanviChhabra13/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/TanviChhabra13/Leetcode/tree/master/0684-redundant-connection) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanviChhabra13/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanviChhabra13/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/TanviChhabra13/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/TanviChhabra13/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TanviChhabra13/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
