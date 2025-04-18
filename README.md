@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/TanviChhabra13/Leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/TanviChhabra13/Leetcode/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/TanviChhabra13/Leetcode/tree/master/0343-integer-break) |
 | [0372-super-pow](https://github.com/TanviChhabra13/Leetcode/tree/master/0372-super-pow) |
 | [0968-beautiful-array](https://github.com/TanviChhabra13/Leetcode/tree/master/0968-beautiful-array) |
 | [1014-k-closest-points-to-origin](https://github.com/TanviChhabra13/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/TanviChhabra13/Leetcode/tree/master/0053-maximum-subarray) |
+| [0343-integer-break](https://github.com/TanviChhabra13/Leetcode/tree/master/0343-integer-break) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/TanviChhabra13/Leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Greedy
 |  |
